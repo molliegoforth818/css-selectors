@@ -1,0 +1,14 @@
+header {
+    border: 1px goldenrod solid;
+    writing-mode: horizontal-tb;
+    word-spacing: 10px
+}
+.active {
+    color: yellow
+}
+.disabled {
+    color: gray
+}
+.disabled link {
+    color: purple
+}
