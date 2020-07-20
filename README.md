@@ -16,4 +16,4 @@
 13. Any h4 that is a direct child of grandparent should have a 1px border with rounded corners.
 14. Elements with a class of promo should have bold text that is also colored gold.
 15. Without adding any other attributes to the input fields in the footer, write a CSS selector that makes any text input field have a height of 25px.
-* Note: You are not allowed to add id and class attributes to any component*
+* note: You are not allowed to add id and class attributes to any component *
